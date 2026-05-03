@@ -1,0 +1,183 @@
+,Items,Name,Percent
+0,OS Version,Windows,93.47%
+1,OS Version,Windows 11 64 bit,67.74%
+2,OS Version,Windows 10 64 bit,25.63%
+3,OS Version,Windows 7 64 bit,0.07%
+4,OS Version,OSX,2.01%
+5,OS Version,MacOS 26.3.1 64 bit,0.49%
+6,OS Version,MacOS 26.4.0 64 bit,0.27%
+7,OS Version,MacOS 26.4.1 64 bit,0.20%
+8,OS Version,MacOS 26.2.0 64 bit,0.12%
+9,OS Version,MacOS 26.3.0 64 bit,0.11%
+10,OS Version,MacOS 15.7.4 64 bit,0.10%
+11,OS Version,MacOS 15.6.1 64 bit,0.07%
+12,OS Version,MacOS 15.7.3 64 bit,0.06%
+13,OS Version,Linux,4.52%
+14,OS Version,Arch Linux 64 bit,0.32%
+15,OS Version,Linux Mint 22.3 64 bit,0.27%
+16,OS Version,Ubuntu Core 24 64 bit,0.13%
+17,OS Version,Ubuntu 24.04.4 LTS 64 bit,0.09%
+18,OS Version,Fedora Linux 43 (KDE Plasma Desktop Edition) 64 bit,0.06%
+19,OS Version,Ubuntu 25.10 64 bit,0.06%
+20,OS Version,Linux Mint 22.2 64 bit,0.05%
+21,OS Version,Fedora Linux 43 (Workstation Edition) 64 bit,0.05%
+22,OS Version,Manjaro Linux 64 bit,0.05%
+23,OS Version,Debian GNU/Linux 13 (trixie) 64 bit,0.05%
+24,System RAM,Less than 4 GB,0.02%
+25,System RAM,4 GB,1.46%
+26,System RAM,8 GB,7.66%
+27,System RAM,12 GB,2.46%
+28,System RAM,16 GB,40.86%
+29,System RAM,24 GB,1.97%
+30,System RAM,28 GB,0.55%
+31,System RAM,32 GB,37.55%
+32,System RAM,48 GB,1.20%
+33,System RAM,60 GB,0.94%
+34,System RAM,64 GB,4.10%
+35,System RAM,More than 64 GB,0.61%
+36,System RAM,Other,0.62%
+37,Physical CPUs,1 cpu,0.02%
+38,Physical CPUs,2 cpus,3.04%
+39,Physical CPUs,3 cpus,0.10%
+40,Physical CPUs,4 cpus,13.02%
+41,Physical CPUs,5 cpus,0.15%
+42,Physical CPUs,6 cpus,28.62%
+43,Physical CPUs,7 cpus,0.01%
+44,Physical CPUs,8 cpus,26.95%
+45,Physical CPUs,9 cpus,0.00%
+46,Physical CPUs,10 cpus,7.60%
+47,Physical CPUs,11 cpus,0.04%
+48,Physical CPUs,12 cpus,5.10%
+49,Physical CPUs,13 cpus,0.00%
+50,Physical CPUs,14 cpus,4.93%
+51,Physical CPUs,15 cpus,0.01%
+52,Physical CPUs,16 cpus,5.51%
+53,Physical CPUs,17 cpus,0.00%
+54,Physical CPUs,18 cpus,0.08%
+55,Physical CPUs,19 cpus,0.00%
+56,Physical CPUs,20 cpus,2.06%
+57,Physical CPUs,21 cpus,0.00%
+58,Physical CPUs,22 cpus,0.01%
+59,Physical CPUs,23 cpus,0.00%
+60,Physical CPUs,24 cpus,2.73%
+61,Physical CPUs,26 cpus,0.00%
+62,Physical CPUs,28 cpus,0.01%
+63,Physical CPUs,30 cpus,0.00%
+64,Physical CPUs,31 cpus,0.00%
+65,Physical CPUs,32 cpus,0.01%
+66,Physical CPUs,36 cpus,0.00%
+67,Physical CPUs,40 cpus,0.00%
+68,Physical CPUs,44 cpus,0.00%
+69,Physical CPUs,48 cpus,0.00%
+70,Physical CPUs,50 cpus,0.00%
+71,Physical CPUs,52 cpus,0.00%
+72,Physical CPUs,56 cpus,0.00%
+73,Physical CPUs,64 cpus,0.00%
+74,Physical CPUs,80 cpus,0.00%
+75,Physical CPUs,96 cpus,0.00%
+76,Physical CPUs,128 cpus,0.00%
+77,Physical CPUs,192 cpus,0.00%
+78,Video Card Description,NVIDIA GeForce GTX 1650 SUPER,0.28%
+79,Video Card Description,NVIDIA GeForce RTX 5070,2.86%
+80,Video Card Description,NVIDIA GeForce GTX 1650 Ti,0.38%
+81,Video Card Description,AMD Radeon RX 6800,0.20%
+82,Video Card Description,AMD Radeon RX 6900 XT,0.16%
+83,Video Card Description,NVIDIA GeForce RTX 3050 Laptop GPU,0.37%
+84,Video Card Description,NVIDIA GeForce RTX 2080 Ti,0.24%
+85,Video Card Description,Apple M2,1.77%
+86,Video Card Description,NVIDIA GeForce RTX 4070,1.79%
+87,Video Card Description,NVIDIA GeForce RTX 4060 Ti,2.45%
+88,Video Card Description,NVIDIA GeForce RTX 5060 Ti,1.81%
+89,Video Card Description,NVIDIA GeForce RTX 4060 Laptop GPU,3.78%
+90,Video Card Description,NVIDIA GeForce RTX 5060,2.57%
+91,Video Card Description,NVIDIA GeForce RTX 3060,3.99%
+92,Video Card Description,NVIDIA GeForce RTX 5070 Laptop GPU,0.44%
+93,Video Card Description,NVIDIA GeForce RTX 5070 Ti,1.62%
+94,Video Card Description,Intel Arc Graphics,0.26%
+95,Video Card Description,NVIDIA GeForce RTX 3060 Ti,2.32%
+96,Video Card Description,NVIDIA GeForce GTX 970,0.20%
+97,Video Card Description,NVIDIA GeForce RTX 3050,3.04%
+98,Video Card Description,NVIDIA GeForce RTX 5070 Ti Laptop GPU,0.32%
+99,Video Card Description,NVIDIA GeForce RTX 4070 SUPER,1.51%
+100,Video Card Description,NVIDIA GeForce RTX 3070 Ti Laptop GPU,0.23%
+101,Video Card Description,NVIDIA GeForce GTX 1660 SUPER,1.46%
+102,Video Card Description,AMD Radeon 780M Graphics,0.33%
+103,Video Card Description,NVIDIA GeForce RTX 5080,1.37%
+104,Video Card Description,AMD Radeon RX 570,0.36%
+105,Video Card Description,AMD Radeon RX 7800 XT,1.22%
+106,Video Card Description,NVIDIA GeForce RTX 2070,0.49%
+107,Video Card Description,NVIDIA GeForce RTX 3060 Laptop GPU,1.87%
+108,Video Card Description,AMD Radeon RX 6650 XT,0.27%
+109,Video Card Description,NVIDIA GeForce RTX 3070,2.10%
+110,Video Card Description,AMD Radeon RX 6750 XT,0.32%
+111,Video Card Description,NVIDIA GeForce GTX 1050 Ti,1.21%
+112,Video Card Description,AMD Radeon RX 6800 XT,0.23%
+113,Video Card Description,NVIDIA GeForce RTX 5060 Laptop GPU,1.61%
+114,Video Card Description,NVIDIA GeForce GT 1030,0.22%
+115,Video Card Description,NVIDIA GeForce RTX 4070 Ti,0.97%
+116,Video Card Description,AMD Raphael,0.19%
+117,Video Card Description,NVIDIA GeForce RTX 3070 Ti,0.97%
+118,Video Card Description,NVIDIA GeForce GTX 750 Ti,0.18%
+119,Video Card Description,NVIDIA GeForce RTX 4050 Laptop GPU,1.56%
+120,Video Card Description,Intel HD Graphics 620,0.20%
+121,Video Card Description,NVIDIA GeForce RTX 2060,1.76%
+122,Video Card Description,Intel UHD Graphics,0.70%
+123,Video Card Description,AMD Radeon RX 6600,0.84%
+124,Video Card Description,NVIDIA GeForce RTX 4080 Laptop GPU,0.19%
+125,Video Card Description,NVIDIA GeForce GTX 1060,1.61%
+126,Video Card Description,Intel UHD Graphics 630,0.28%
+127,Video Card Description,NVIDIA GeForce RTX 2060 SUPER,0.79%
+128,Video Card Description,AMD Radeon Vega 3 Graphics,0.19%
+129,Video Card Description,NVIDIA GeForce GTX 1650,2.58%
+130,Video Card Description,NVIDIA GeForce RTX 3090,0.38%
+131,Video Card Description,NVIDIA GeForce RTX 4090,0.74%
+132,Video Card Description,NVIDIA GeForce RTX 3050 6GB Laptop GPU,0.58%
+133,Video Card Description,NVIDIA GeForce RTX 4070 Ti SUPER,0.78%
+134,Video Card Description,NVIDIA GeForce GTX 1080 Ti,0.32%
+135,Video Card Description,NVIDIA GeForce RTX 3080,1.45%
+136,Video Card Description,AMD Radeon RX 6700 XT,0.54%
+137,Video Card Description,NVIDIA GeForce RTX 4080 SUPER,0.66%
+138,Video Card Description,AMD Radeon RX 6600 XT,0.33%
+139,Video Card Description,NVIDIA GeForce RTX 2070 SUPER,0.71%
+140,Video Card Description,NVIDIA GeForce RTX 3070 Laptop GPU,0.44%
+141,Video Card Description,AMD Radeon RX 7600 XT,0.73%
+142,Video Card Description,NVIDIA GeForce RTX 2080 SUPER,0.28%
+143,Video Card Description,NVIDIA GeForce RTX 3050 Ti Laptop GPU,0.64%
+144,Video Card Description,NVIDIA GeForce GTX 1050,0.57%
+145,Video Card Description,Intel Iris Xe Graphics,1.69%
+146,Video Card Description,AMD Radeon RX 7700 XT,0.25%
+147,Video Card Description,AMD Radeon RX 580 2048SP,0.59%
+148,Video Card Description,Intel(R) UHD Graphics,1.09%
+149,Video Card Description,NVIDIA GeForce GTX 1070,0.65%
+150,Video Card Description,Intel UHD Graphics 620,0.45%
+151,Video Card Description,NVIDIA GeForce RTX 3080 Ti,0.56%
+152,Video Card Description,NVIDIA GeForce GTX 1070 Ti,0.21%
+153,Video Card Description,NVIDIA GeForce RTX 4080,0.66%
+154,Video Card Description,AMD Radeon RX 6500 XT,0.19%
+155,Video Card Description,NVIDIA GeForce RTX 4070 Laptop GPU,0.95%
+156,Video Card Description,NVIDIA GeForce GTX 960,0.19%
+157,Video Card Description,AMD Radeon(TM) Graphics,2.27%
+158,Video Card Description,Intel HD Graphics 520,0.21%
+159,Video Card Description,NVIDIA GeForce GTX 1660 Ti,0.90%
+160,Video Card Description,AMD Radeon RX 550,0.21%
+161,Video Card Description,AMD Radeon RX 580,0.53%
+162,Video Card Description,AMD Radeon RX 9070,0.17%
+163,Video Card Description,NVIDIA GeForce GTX 1660,0.49%
+164,Video Card Description,NVIDIA GeForce RTX 5050,0.16%
+165,Video Card Description,AMD Radeon Graphics (RADV VANGOGH),0.43%
+166,Video Card Description,AMD Radeon Vega 8 Graphics,0.33%
+167,Video Card Description,AMD Radeon RX 7900 XTX,0.48%
+168,Video Card Description,NVIDIA GeForce RTX 2080,0.24%
+169,Video Card Description,NVIDIA GeForce RTX 5090,0.41%
+170,Video Card Description,NVIDIA GeForce RTX 5050 Laptop GPU,0.24%
+171,Video Card Description,NVIDIA GeForce GTX 1080,0.42%
+172,Video Card Description,Intel HD Graphics 4600,0.17%
+173,Video Card Description,AMD Radeon RX 5700 XT,0.57%
+174,Video Card Description,AMD Radeon (TM) Graphics,0.42%
+175,Video Card Description,NVIDIA GeForce RTX 2050,0.46%
+176,Video Card Description,NVIDIA GeForce GT 730,0.16%
+177,Video Card Description,AMD AMD Custom GPU 0405,0.38%
+178,Video Card Description,Intel(R) Graphics,0.33%
+179,Video Card Description,AMD Radeon Graphics,1.83%
+180,Video Card Description,NVIDIA GeForce RTX 4060,3.86%
+181,Video Card Description,Other,9.06%
