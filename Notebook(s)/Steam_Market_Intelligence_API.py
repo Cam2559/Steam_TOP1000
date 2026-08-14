@@ -1,3 +1,5 @@
+#AI assisted code
+#I had learned how to put a timestamp on API calls 
 import os
 import pandas as pd
 from apify_client import ApifyClient
@@ -59,11 +61,6 @@ items = list(
 # Convert the returned JSON data into a pandas DataFrame
 df = pd.DataFrame(items)
 
-# Print all dataframe column names
-print(df.columns)
-
-# Display the first few rows of the dataset
-print(df.head())
 
 # Create a timestamped filename
 filename = output_dir / f"steam_top_sellers_{today}.csv"
@@ -72,5 +69,3 @@ filename = output_dir / f"steam_top_sellers_{today}.csv"
 
 df.to_csv(filename, index=False)
 
-# Print confirmation message showing where the file was saved
-print(f"Saved {len(df)} rows to {filename}")
