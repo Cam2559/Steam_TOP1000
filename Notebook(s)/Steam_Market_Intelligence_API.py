@@ -20,7 +20,7 @@ client = ApifyClient(apify_token)
 today = datetime.today().strftime("%Y-%m-%d")
 
 # Define the folder where CSV files will be saved
-output_dir = Path(r"D:\Steam_top1000\Data")
+output_dir = Path("../Data")
 
 # Define the Actor input settings
 run_input = {
